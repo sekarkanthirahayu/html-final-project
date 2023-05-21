@@ -8,6 +8,6 @@
 
 const studentName = 'Sekar Kanthi Rahayu'; // TODO: replace this
 const studentId = 'FE4750760'; // TODO: replace this
-const NetlifyDeployUrl = 'TODO: replace me'; // TODO: replace this
+const NetlifyDeployUrl = 'https://willowy-rugelach-e3ff3b.netlify.app'; // TODO: replace this
 
 module.exports = { studentName, studentId, NetlifyDeployUrl };
